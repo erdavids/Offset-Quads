@@ -2,6 +2,8 @@
 
 Simple examples of using a quad deformation function.
 
+The aesthetic of the offset backgrounds was inspired by [this Reddit post](https://www.reddit.com/r/generative/comments/g07wgz/rythm/).
+
 If you want to run this project yourself, make sure to download [Processing](https://www.processing.org) and use the Python module. Reach out to thebuffed@gmail.com if you have any questions.
 
 Other links:
